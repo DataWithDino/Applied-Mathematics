@@ -1,0 +1,891 @@
+[
+    {
+        "start": "Berlin Hbf",
+        "end": "Schwerin Hbf",
+        "duration": "1:52:00",
+        "risk": "low-to-medium",
+        "price": 31.9
+    },
+    {
+        "start": "Schwerin Hbf",
+        "end": "Berlin Hbf",
+        "duration": "1:55:00",
+        "risk": "unknown",
+        "price": 32.9
+    },
+    {
+        "start": "Berlin Hbf",
+        "end": "Hamburg Hbf",
+        "duration": "1:50:00",
+        "risk": "low-to-medium",
+        "price": 29.9
+    },
+    {
+        "start": "Hamburg Hbf",
+        "end": "Berlin Hbf",
+        "duration": "1:46:00",
+        "risk": "low-to-medium",
+        "price": 29.9
+    },
+    {
+        "start": "Berlin Hbf",
+        "end": "Rostock Hbf",
+        "duration": "2:37:00",
+        "risk": "unknown",
+        "price": 27
+    },
+    {
+        "start": "Rostock Hbf",
+        "end": "Berlin Hbf",
+        "duration": "2:02:00",
+        "risk": "low-to-medium",
+        "price": 31.9
+    },
+    {
+        "start": "Berlin Hbf",
+        "end": "Magdeburg Hbf",
+        "duration": "1:46:00",
+        "risk": "unknown",
+        "price": 26.9
+    },
+    {
+        "start": "Magdeburg Hbf",
+        "end": "Berlin Hbf",
+        "duration": "1:44:00",
+        "risk": "unknown",
+        "price": 26.9
+    },
+    {
+        "start": "Berlin Hbf",
+        "end": "Leipzig Hbf",
+        "duration": "1:13:00",
+        "risk": "low-to-medium",
+        "price": 25.9
+    },
+    {
+        "start": "Leipzig Hbf",
+        "end": "Berlin Hbf",
+        "duration": "1:17:00",
+        "risk": "low-to-medium",
+        "price": 29.9
+    },
+    {
+        "start": "Berlin Hbf",
+        "end": "Dresden Hbf",
+        "duration": "2:01:00",
+        "risk": "high",
+        "price": 33.9
+    },
+    {
+        "start": "Dresden Hbf",
+        "end": "Berlin Hbf",
+        "duration": "1:49:00",
+        "risk": "low-to-medium",
+        "price": 22.9
+    },
+    {
+        "start": "Hamburg Hbf",
+        "end": "Kiel Hbf",
+        "duration": "1:05:00",
+        "risk": "low-to-medium",
+        "price": 17.9
+    },
+    {
+        "start": "Kiel Hbf",
+        "end": "Hamburg Hbf",
+        "duration": "1:14:00",
+        "risk": "unknown",
+        "price": "unknown"
+    },
+    {
+        "start": "Hamburg Hbf",
+        "end": "Bremerhaven Hbf",
+        "duration": "2:23:00",
+        "risk": "unknown",
+        "price": 25.5
+    },
+    {
+        "start": "Bremerhaven Hbf",
+        "end": "Hamburg Hbf",
+        "duration": "1:46:00",
+        "risk": "unknown",
+        "price": 22.9
+    },
+    {
+        "start": "Hamburg Hbf",
+        "end": "Bremen Hbf",
+        "duration": "1:09:00",
+        "risk": "unknown",
+        "price": 26.4
+    },
+    {
+        "start": "Bremen Hbf",
+        "end": "Hamburg Hbf",
+        "duration": "0:57:00",
+        "risk": "low-to-medium",
+        "price": 19.9
+    },
+    {
+        "start": "Hamburg Hbf",
+        "end": "Hannover Hbf",
+        "duration": "1:19:00",
+        "risk": "low-to-medium",
+        "price": 21.9
+    },
+    {
+        "start": "Hannover Hbf",
+        "end": "Hamburg Hbf",
+        "duration": "1:33:00",
+        "risk": "high",
+        "price": 24.9
+    },
+    {
+        "start": "Schwerin Hbf",
+        "end": "Rostock Hbf",
+        "duration": "0:55:00",
+        "risk": "low-to-medium",
+        "price": 17.9
+    },
+    {
+        "start": "Rostock Hbf",
+        "end": "Schwerin Hbf",
+        "duration": "1:05:00",
+        "risk": "unknown",
+        "price": 23
+    },
+    {
+        "start": "Magdeburg Hbf",
+        "end": "Hannover Hbf",
+        "duration": "1:20:00",
+        "risk": "high",
+        "price": 17.9
+    },
+    {
+        "start": "Hannover Hbf",
+        "end": "Magdeburg Hbf",
+        "duration": "1:18:00",
+        "risk": "low-to-medium",
+        "price": 19.9
+    },
+    {
+        "start": "Magdeburg Hbf",
+        "end": "Leipzig Hbf",
+        "duration": "1:16:00",
+        "risk": "high",
+        "price": 17.9
+    },
+    {
+        "start": "Leipzig Hbf",
+        "end": "Magdeburg Hbf",
+        "duration": "1:38:00",
+        "risk": "unknown",
+        "price": 26.9
+    },
+    {
+        "start": "Leipzig Hbf",
+        "end": "Dresden Hbf",
+        "duration": "1:43:00",
+        "risk": "unknown",
+        "price": 20.3
+    },
+    {
+        "start": "Dresden Hbf",
+        "end": "Leipzig Hbf",
+        "duration": "1:16:00",
+        "risk": "high",
+        "price": 19.9
+    },
+    {
+        "start": "Leipzig Hbf (tief)",
+        "end": "Erfurt Hbf",
+        "duration": "1:01:00",
+        "risk": "unknown",
+        "price": 20.9
+    },
+    {
+        "start": "Erfurt Hbf",
+        "end": "Leipzig Hbf",
+        "duration": "0:42:00",
+        "risk": "low-to-medium",
+        "price": 17.9
+    },
+    {
+        "start": "Erfurt Hbf",
+        "end": "Kassel Hbf",
+        "duration": "1:59:00",
+        "risk": "high",
+        "price": 31.9
+    },
+    {
+        "start": "Kassel Hbf",
+        "end": "Erfurt Hbf",
+        "duration": "2:15:00",
+        "risk": "unknown",
+        "price": 26.9
+    },
+    {
+        "start": "Erfurt Hbf",
+        "end": "N\u00fcrnberg Hbf",
+        "duration": "1:21:00",
+        "risk": "low-to-medium",
+        "price": 25.9
+    },
+    {
+        "start": "N\u00fcrnberg Hbf",
+        "end": "Erfurt Hbf",
+        "duration": "1:08:00",
+        "risk": "high",
+        "price": 31.9
+    },
+    {
+        "start": "Kassel Hbf",
+        "end": "Hannover Hbf",
+        "duration": "1:06:00",
+        "risk": "unknown",
+        "price": 24.9
+    },
+    {
+        "start": "Hannover Hbf",
+        "end": "Kassel Hbf",
+        "duration": "1:13:00",
+        "risk": "low-to-medium",
+        "price": 27.9
+    },
+    {
+        "start": "N\u00fcrnberg Hbf",
+        "end": "W\u00fcrzburg Hbf",
+        "duration": "0:55:00",
+        "risk": "low-to-medium",
+        "price": 17.9
+    },
+    {
+        "start": "W\u00fcrzburg Hbf",
+        "end": "N\u00fcrnberg Hbf",
+        "duration": "0:54:00",
+        "risk": "high",
+        "price": 17.9
+    },
+    {
+        "start": "N\u00fcrnberg Hbf",
+        "end": "Regensburg Hbf",
+        "duration": "1:02:00",
+        "risk": "unknown",
+        "price": 28.5
+    },
+    {
+        "start": "Regensburg Hbf",
+        "end": "N\u00fcrnberg Hbf",
+        "duration": "0:54:00",
+        "risk": "high",
+        "price": 17.9
+    },
+    {
+        "start": "Regensburg Hbf",
+        "end": "M\u00fcnchen Hbf (tief)",
+        "duration": "1:56:00",
+        "risk": "unknown",
+        "price": 29
+    },
+    {
+        "start": "M\u00fcnchen Hbf",
+        "end": "Regensburg Hbf",
+        "duration": "1:23:00",
+        "risk": "unknown",
+        "price": 29
+    },
+    {
+        "start": "M\u00fcnchen Hbf",
+        "end": "Augsburg Hbf",
+        "duration": "0:33:00",
+        "risk": "low-to-medium",
+        "price": 17.9
+    },
+    {
+        "start": "Augsburg Hbf",
+        "end": "M\u00fcnchen Hbf",
+        "duration": "0:32:00",
+        "risk": "low-to-medium",
+        "price": 17.9
+    },
+    {
+        "start": "Augsburg Hbf",
+        "end": "Ulm Hbf",
+        "duration": "0:44:00",
+        "risk": "low-to-medium",
+        "price": 17.9
+    },
+    {
+        "start": "Ulm Hbf",
+        "end": "Augsburg Hbf",
+        "duration": "0:40:00",
+        "risk": "low-to-medium",
+        "price": 17.9
+    },
+    {
+        "start": "Ulm Hbf",
+        "end": "Stuttgart Hbf",
+        "duration": "0:42:00",
+        "risk": "low-to-medium",
+        "price": 17.9
+    },
+    {
+        "start": "Stuttgart Hbf",
+        "end": "Ulm Hbf",
+        "duration": "0:56:00",
+        "risk": "low-to-medium",
+        "price": 17.9
+    },
+    {
+        "start": "Stuttgart Hbf",
+        "end": "Mannheim Hbf",
+        "duration": "0:48:00",
+        "risk": "very-high",
+        "price": 21.9
+    },
+    {
+        "start": "Mannheim Hbf",
+        "end": "Stuttgart Hbf",
+        "duration": "0:39:00",
+        "risk": "high",
+        "price": 19.9
+    },
+    {
+        "start": "Mannheim Hbf",
+        "end": "Karlsruhe Hbf",
+        "duration": "0:44:00",
+        "risk": "unknown",
+        "price": 12.5
+    },
+    {
+        "start": "Karlsruhe Hbf",
+        "end": "Mannheim Hbf",
+        "duration": "0:24:00",
+        "risk": "low-to-medium",
+        "price": 17.9
+    },
+    {
+        "start": "Karlsruhe Hbf",
+        "end": "Saarbr\u00fccken Hbf",
+        "duration": "2:14:00",
+        "risk": "unknown",
+        "price": 28
+    },
+    {
+        "start": "Saarbr\u00fccken Hbf",
+        "end": "Karlsruhe Hbf",
+        "duration": "2:07:00",
+        "risk": "unknown",
+        "price": 28
+    },
+    {
+        "start": "Mannheim Hbf",
+        "end": "Mainz Hbf",
+        "duration": "0:39:00",
+        "risk": "high",
+        "price": 17.9
+    },
+    {
+        "start": "Mainz Hbf",
+        "end": "Koblenz Hbf",
+        "duration": "0:51:00",
+        "risk": "low-to-medium",
+        "price": 17.9
+    },
+    {
+        "start": "Koblenz Hbf",
+        "end": "Mainz Hbf",
+        "duration": "0:53:00",
+        "risk": "low-to-medium",
+        "price": 17.9
+    },
+    {
+        "start": "Koblenz Hbf",
+        "end": "K\u00f6ln Hbf",
+        "duration": "0:52:00",
+        "risk": "high",
+        "price": 17.9
+    },
+    {
+        "start": "K\u00f6ln Hbf",
+        "end": "Koblenz Hbf",
+        "duration": "1:31:00",
+        "risk": "unknown",
+        "price": 27.2
+    },
+    {
+        "start": "K\u00f6ln Hbf",
+        "end": "Aachen Hbf",
+        "duration": "0:47:00",
+        "risk": "unknown",
+        "price": "unknown"
+    },
+    {
+        "start": "Aachen Hbf",
+        "end": "K\u00f6ln Hbf",
+        "duration": "0:54:00",
+        "risk": "unknown",
+        "price": "unknown"
+    },
+    {
+        "start": "K\u00f6ln Hbf",
+        "end": "D\u00fcsseldorf Hbf",
+        "duration": "0:27:00",
+        "risk": "unknown",
+        "price": "unknown"
+    },
+    {
+        "start": "D\u00fcsseldorf Hbf",
+        "end": "K\u00f6ln Hbf",
+        "duration": "0:31:00",
+        "risk": "unknown",
+        "price": "unknown"
+    },
+    {
+        "start": "D\u00fcsseldorf Hbf",
+        "end": "Dortmund Hbf",
+        "duration": "0:52:00",
+        "risk": "unknown",
+        "price": "unknown"
+    },
+    {
+        "start": "Dortmund Hbf",
+        "end": "D\u00fcsseldorf Hbf",
+        "duration": "0:58:00",
+        "risk": "unknown",
+        "price": "unknown"
+    },
+    {
+        "start": "Bremen Hbf",
+        "end": "Bremerhaven Hbf",
+        "duration": "0:34:00",
+        "risk": "unknown",
+        "price": "unknown"
+    },
+    {
+        "start": "Bremerhaven Hbf",
+        "end": "Bremen Hbf",
+        "duration": "0:35:00",
+        "risk": "unknown",
+        "price": "unknown"
+    },
+    {
+        "start": "Regensburg Hbf",
+        "end": "Hof Hbf",
+        "duration": "1:55:00",
+        "risk": "unknown",
+        "price": 29
+    },
+    {
+        "start": "Hof Hbf",
+        "end": "Regensburg Hbf",
+        "duration": "1:58:00",
+        "risk": "unknown",
+        "price": 29
+    },
+    {
+        "start": "K\u00f6ln Hbf",
+        "end": "Dortmund Hbf",
+        "duration": "1:10:00",
+        "risk": "high",
+        "price": 19.9
+    },
+    {
+        "start": "Dortmund Hbf",
+        "end": "K\u00f6ln Hbf",
+        "duration": "1:29:00",
+        "risk": "unknown",
+        "price": 23.4
+    },
+    {
+        "start": "Frankfurt(Main)Hbf",
+        "end": "W\u00fcrzburg Hbf",
+        "duration": "1:11:00",
+        "risk": "low-to-medium",
+        "price": 25.9
+    },
+    {
+        "start": "W\u00fcrzburg Hbf",
+        "end": "Frankfurt(Main)Hbf",
+        "duration": "1:12:00",
+        "risk": "high",
+        "price": 17.9
+    },
+    {
+        "start": "Frankfurt(Main)Hbf",
+        "end": "K\u00f6ln Hbf",
+        "duration": "2:46:00",
+        "risk": "unknown",
+        "price": 32.9
+    },
+    {
+        "start": "K\u00f6ln Hbf",
+        "end": "Frankfurt(Main)Hbf",
+        "duration": "1:20:00",
+        "risk": "low-to-medium",
+        "price": 45.9
+    },
+    {
+        "start": "Frankfurt(Main)Hbf",
+        "end": "Mainz Hbf",
+        "duration": "0:34:00",
+        "risk": "unknown",
+        "price": "unknown"
+    },
+    {
+        "start": "Mainz Hbf",
+        "end": "Frankfurt(Main)Hbf",
+        "duration": "0:37:00",
+        "risk": "unknown",
+        "price": "unknown"
+    },
+    {
+        "start": "Frankfurt(Main)Hbf",
+        "end": "Mannheim Hbf",
+        "duration": "0:38:00",
+        "risk": "very-high",
+        "price": 21.9
+    },
+    {
+        "start": "Mannheim Hbf",
+        "end": "Frankfurt(Main)Hbf",
+        "duration": "0:48:00",
+        "risk": "low-to-medium",
+        "price": 17.9
+    },
+    {
+        "start": "Frankfurt(Main)Hbf",
+        "end": "Kassel Hbf",
+        "duration": "1:36:00",
+        "risk": "high",
+        "price": 25.9
+    },
+    {
+        "start": "Kassel Hbf",
+        "end": "Frankfurt(Main)Hbf",
+        "duration": "1:47:00",
+        "risk": "unknown",
+        "price": 30.9
+    },
+    {
+        "start": "Karlsruhe Hbf",
+        "end": "Freiburg(Breisgau) Hbf",
+        "duration": "1:02:00",
+        "risk": "high",
+        "price": 19.9
+    },
+    {
+        "start": "Freiburg(Breisgau) Hbf",
+        "end": "Karlsruhe Hbf",
+        "duration": "1:05:00",
+        "risk": "low-to-medium",
+        "price": 17.9
+    },
+    {
+        "start": "Kassel Hbf",
+        "end": "Dortmund Hbf",
+        "duration": "2:59:00",
+        "risk": "unknown",
+        "price": 46.9
+    },
+    {
+        "start": "Dortmund Hbf",
+        "end": "Kassel Hbf (tief)",
+        "duration": "2:27:00",
+        "risk": "low-to-medium",
+        "price": 30.9
+    },
+    {
+        "start": "M\u00fcnster(Westf)Hbf",
+        "end": "Bremen Hbf",
+        "duration": "1:18:00",
+        "risk": "low-to-medium",
+        "price": 19.9
+    },
+    {
+        "start": "Bremen Hbf",
+        "end": "M\u00fcnster(Westf)Hbf",
+        "duration": "1:16:00",
+        "risk": "high",
+        "price": 22.9
+    },
+    {
+        "start": "M\u00fcnster(Westf)Hbf",
+        "end": "Hannover Hbf",
+        "duration": "2:04:00",
+        "risk": "low-to-medium",
+        "price": 24.9
+    },
+    {
+        "start": "Hannover Hbf",
+        "end": "M\u00fcnster(Westf)Hbf",
+        "duration": "2:04:00",
+        "risk": "high",
+        "price": 22.9
+    },
+    {
+        "start": "M\u00fcnster(Westf)Hbf",
+        "end": "Dortmund Hbf",
+        "duration": "0:30:00",
+        "risk": "high",
+        "price": 17.9
+    },
+    {
+        "start": "Dortmund Hbf",
+        "end": "M\u00fcnster(Westf)Hbf",
+        "duration": "0:30:00",
+        "risk": "high",
+        "price": 17.9
+    },
+    {
+        "start": "Erfurt Hbf",
+        "end": "W\u00fcrzburg Hbf",
+        "duration": "2:10:00",
+        "risk": "high",
+        "price": 43.9
+    },
+    {
+        "start": "W\u00fcrzburg Hbf",
+        "end": "Erfurt Hbf",
+        "duration": "2:20:00",
+        "risk": "unknown",
+        "price": 46
+    },
+    {
+        "start": "Hof Hbf",
+        "end": "N\u00fcrnberg Hbf",
+        "duration": "1:46:00",
+        "risk": "unknown",
+        "price": "unknown"
+    },
+    {
+        "start": "N\u00fcrnberg Hbf",
+        "end": "Hof Hbf",
+        "duration": "1:40:00",
+        "risk": "unknown",
+        "price": "unknown"
+    },
+    {
+        "start": "Hof Hbf",
+        "end": "Chemnitz Hbf",
+        "duration": "1:36:00",
+        "risk": "unknown",
+        "price": 26.9
+    },
+    {
+        "start": "Chemnitz Hbf",
+        "end": "Hof Hbf",
+        "duration": "1:38:00",
+        "risk": "unknown",
+        "price": 26.9
+    },
+    {
+        "start": "Chemnitz Hbf",
+        "end": "Dresden Hbf",
+        "duration": "1:00:00",
+        "risk": "unknown",
+        "price": 20.3
+    },
+    {
+        "start": "Dresden Hbf",
+        "end": "Chemnitz Hbf",
+        "duration": "1:17:00",
+        "risk": "unknown",
+        "price": 20.3
+    },
+    {
+        "start": "Chemnitz Hbf",
+        "end": "Leipzig Hbf",
+        "duration": "1:24:00",
+        "risk": "unknown",
+        "price": 20.3
+    },
+    {
+        "start": "Leipzig Hbf",
+        "end": "Chemnitz Hbf",
+        "duration": "1:26:00",
+        "risk": "unknown",
+        "price": 20.3
+    },
+    {
+        "start": "Chemnitz Hbf",
+        "end": "Erfurt Hbf",
+        "duration": "2:20:00",
+        "risk": "unknown",
+        "price": 24.9
+    },
+    {
+        "start": "Erfurt Hbf",
+        "end": "Chemnitz Hbf",
+        "duration": "2:19:00",
+        "risk": "low-to-medium",
+        "price": 24.9
+    },
+    {
+        "start": "Hamburg Hbf",
+        "end": "Schwerin Hbf",
+        "duration": "1:25:00",
+        "risk": "unknown",
+        "price": 23
+    },
+    {
+        "start": "Schwerin Hbf",
+        "end": "Hamburg Hbf",
+        "duration": "1:27:00",
+        "risk": "unknown",
+        "price": 23
+    },
+    {
+        "start": "N\u00fcrnberg Hbf",
+        "end": "M\u00fcnchen Hbf",
+        "duration": "1:08:00",
+        "risk": "high",
+        "price": 24.9
+    },
+    {
+        "start": "M\u00fcnchen Hbf",
+        "end": "N\u00fcrnberg Hbf",
+        "duration": "1:02:00",
+        "risk": "high",
+        "price": 27.9
+    },
+    {
+        "start": "N\u00fcrnberg Hbf",
+        "end": "Augsburg Hbf",
+        "duration": "1:56:00",
+        "risk": "very-high",
+        "price": 35.9
+    },
+    {
+        "start": "Augsburg Hbf",
+        "end": "N\u00fcrnberg Hbf",
+        "duration": "1:17:00",
+        "risk": "low-to-medium",
+        "price": 22.9
+    },
+    {
+        "start": "Mainz Hbf",
+        "end": "Saarbr\u00fccken Hbf",
+        "duration": "2:14:00",
+        "risk": "unknown",
+        "price": 28
+    },
+    {
+        "start": "Saarbr\u00fccken Hbf",
+        "end": "Mainz Hbf",
+        "duration": "2:32:00",
+        "risk": "unknown",
+        "price": 28
+    },
+    {
+        "start": "Saarbr\u00fccken Hbf",
+        "end": "Koblenz Hbf",
+        "duration": "2:37:00",
+        "risk": "unknown",
+        "price": 28
+    },
+    {
+        "start": "Koblenz Hbf",
+        "end": "Saarbr\u00fccken Hbf",
+        "duration": "2:35:00",
+        "risk": "unknown",
+        "price": 28
+    },
+    {
+        "start": "Saarbr\u00fccken Hbf",
+        "end": "Mannheim Hbf",
+        "duration": "2:02:00",
+        "risk": "unknown",
+        "price": 28
+    },
+    {
+        "start": "Mannheim Hbf",
+        "end": "Saarbr\u00fccken Hbf",
+        "duration": "2:02:00",
+        "risk": "unknown",
+        "price": 28
+    },
+    {
+        "start": "Karlsruhe Hbf",
+        "end": "Stuttgart Hbf",
+        "duration": "0:40:00",
+        "risk": "low-to-medium",
+        "price": 17.9
+    },
+    {
+        "start": "Stuttgart Hbf",
+        "end": "Karlsruhe Hbf",
+        "duration": "0:54:00",
+        "risk": "low-to-medium",
+        "price": 17.9
+    },
+    {
+        "start": "Hannover Hbf",
+        "end": "Bremen Hbf",
+        "duration": "1:19:00",
+        "risk": "unknown",
+        "price": 27
+    },
+    {
+        "start": "Bremen Hbf",
+        "end": "Hannover Hbf",
+        "duration": "1:04:00",
+        "risk": "high",
+        "price": 21.9
+    },
+    {
+        "start": "Hannover Hbf",
+        "end": "Dortmund Hbf",
+        "duration": "1:39:00",
+        "risk": "low-to-medium",
+        "price": 29.9
+    },
+    {
+        "start": "Dortmund Hbf",
+        "end": "Hannover Hbf",
+        "duration": "1:50:00",
+        "risk": "low-to-medium",
+        "price": 24.9
+    },
+    {
+        "start": "L\u00fcbeck Hbf",
+        "end": "Hamburg Hbf",
+        "duration": "0:47:00",
+        "risk": "unknown",
+        "price": "unknown"
+    },
+    {
+        "start": "Hamburg Hbf",
+        "end": "L\u00fcbeck Hbf",
+        "duration": "0:46:00",
+        "risk": "unknown",
+        "price": "unknown"
+    },
+    {
+        "start": "L\u00fcbeck Hbf",
+        "end": "Kiel Hbf",
+        "duration": "1:10:00",
+        "risk": "unknown",
+        "price": "unknown"
+    },
+    {
+        "start": "Kiel Hbf",
+        "end": "L\u00fcbeck Hbf",
+        "duration": "1:27:00",
+        "risk": "unknown",
+        "price": "unknown"
+    },
+    {
+        "start": "L\u00fcbeck Hbf",
+        "end": "Schwerin Hbf",
+        "duration": "1:12:00",
+        "risk": "unknown",
+        "price": 22.8
+    },
+    {
+        "start": "Schwerin Hbf",
+        "end": "L\u00fcbeck Hbf",
+        "duration": "1:41:00",
+        "risk": "unknown",
+        "price": 30
+    }
+]

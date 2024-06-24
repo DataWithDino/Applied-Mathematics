@@ -1,0 +1,79 @@
+[
+    {
+        "start": "Berlin Hbf",
+        "ende": "Hamburg Hbf",
+        "dauer": 110,
+        "auslastung": "low-to-medium",
+        "preis": 29.99
+    },
+    {
+        "start": "Berlin Hbf",
+        "ende": "M\u00fcnchen Hbf",
+        "dauer": 231,
+        "auslastung": "low-to-medium",
+        "preis": 55.99
+    },
+    {
+        "start": "Berlin Hbf",
+        "ende": "K\u00f6ln Hbf",
+        "dauer": 259,
+        "auslastung": "low-to-medium",
+        "preis": 47.99
+    },
+    {
+        "start": "Hamburg Hbf",
+        "ende": "Berlin Hbf",
+        "dauer": 106,
+        "auslastung": "low-to-medium",
+        "preis": 29.99
+    },
+    {
+        "start": "Hamburg Hbf",
+        "ende": "M\u00fcnchen Hbf",
+        "dauer": 341,
+        "auslastung": "low-to-medium",
+        "preis": 55.99
+    },
+    {
+        "start": "Hamburg Hbf",
+        "ende": "K\u00f6ln Hbf",
+        "dauer": 220,
+        "auslastung": "high",
+        "preis": 49.99
+    },
+    {
+        "start": "M\u00fcnchen Hbf",
+        "ende": "Berlin Hbf",
+        "dauer": 226,
+        "auslastung": "high",
+        "preis": 47.99
+    },
+    {
+        "start": "M\u00fcnchen Hbf",
+        "ende": "Hamburg Hbf",
+        "dauer": 359,
+        "auslastung": "high",
+        "preis": 69.99
+    },
+    {
+        "start": "M\u00fcnchen Hbf",
+        "ende": "K\u00f6ln Hbf",
+        "dauer": 347,
+        "auslastung": "high",
+        "preis": 59.99
+    },
+    {
+        "start": "K\u00f6ln Hbf",
+        "ende": "Berlin Hbf",
+        "dauer": 257,
+        "auslastung": "low-to-medium",
+        "preis": 53.99
+    },
+    {
+        "start": "K\u00f6ln Hbf",
+        "ende": "M\u00fcnchen Hbf",
+        "dauer": 239,
+        "auslastung": "unknown",
+        "preis": 73.49
+    }
+]

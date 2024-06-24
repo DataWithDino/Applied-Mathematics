@@ -1,0 +1,212 @@
+[
+    {
+        "start": "Berlin Hbf",
+        "end": "Hamburg Hbf",
+        "duration": "2:09:00",
+        "risk": "low-to-medium",
+        "price": 55.99
+    },
+    {
+        "start": "Hamburg Hbf",
+        "end": "Berlin Hbf",
+        "duration": "1:46:00",
+        "risk": "high",
+        "price": 39.99
+    },
+    {
+        "start": "Berlin Hbf",
+        "end": "Hannover Hbf",
+        "duration": "1:41:00",
+        "risk": "very-high",
+        "price": 43.99
+    },
+    {
+        "start": "Hannover Hbf",
+        "end": "Berlin Hbf",
+        "duration": "1:47:00",
+        "risk": "high",
+        "price": 43.99
+    },
+    {
+        "start": "Berlin Hbf",
+        "end": "Leipzig Hbf",
+        "duration": "1:16:00",
+        "risk": "high",
+        "price": 25.99
+    },
+    {
+        "start": "Leipzig Hbf",
+        "end": "Berlin Hbf",
+        "duration": "1:16:00",
+        "risk": "low-to-medium",
+        "price": 29.99
+    },
+    {
+        "start": "Hamburg Hbf",
+        "end": "Hannover Hbf",
+        "duration": "1:21:00",
+        "risk": "high",
+        "price": 39.99
+    },
+    {
+        "start": "Hannover Hbf",
+        "end": "Hamburg Hbf",
+        "duration": "1:16:00",
+        "risk": "low-to-medium",
+        "price": 17.99
+    },
+    {
+        "start": "Hamburg Hbf",
+        "end": "K\u00f6ln Hbf",
+        "duration": "4:14:00",
+        "risk": "high",
+        "price": 79.99
+    },
+    {
+        "start": "K\u00f6ln Hbf",
+        "end": "Hamburg Hbf",
+        "duration": "4:04:00",
+        "risk": "high",
+        "price": 55.99
+    },
+    {
+        "start": "Hannover Hbf",
+        "end": "K\u00f6ln Hbf",
+        "duration": "2:38:00",
+        "risk": "very-high",
+        "price": 43.99
+    },
+    {
+        "start": "K\u00f6ln Hbf",
+        "end": "Hannover Hbf",
+        "duration": "3:08:00",
+        "risk": "high",
+        "price": 55.99
+    },
+    {
+        "start": "Hannover Hbf",
+        "end": "Frankfurt(Main)Hbf",
+        "duration": "2:41:00",
+        "risk": "high",
+        "price": 49.99
+    },
+    {
+        "start": "Frankfurt(Main)Hbf",
+        "end": "Hannover Hbf",
+        "duration": "2:20:00",
+        "risk": "high",
+        "price": 43.99
+    },
+    {
+        "start": "Hannover Hbf",
+        "end": "N\u00fcrnberg Hbf",
+        "duration": "3:02:00",
+        "risk": "high",
+        "price": 65.99
+    },
+    {
+        "start": "N\u00fcrnberg Hbf",
+        "end": "Hannover Hbf",
+        "duration": "3:00:00",
+        "risk": "high",
+        "price": 69.99
+    },
+    {
+        "start": "K\u00f6ln Hbf",
+        "end": "Frankfurt(Main)Hbf",
+        "duration": "1:03:00",
+        "risk": "very-high",
+        "price": 59.99
+    },
+    {
+        "start": "Frankfurt(Main)Hbf",
+        "end": "K\u00f6ln Hbf",
+        "duration": "1:17:00",
+        "risk": "high",
+        "price": 53.49
+    },
+    {
+        "start": "Frankfurt(Main)Hbf",
+        "end": "Stuttgart Hbf",
+        "duration": "1:33:00",
+        "risk": "low-to-medium",
+        "price": 14.99
+    },
+    {
+        "start": "Stuttgart Hbf",
+        "end": "Frankfurt(Main)Hbf",
+        "duration": "1:29:00",
+        "risk": "high",
+        "price": 45.99
+    },
+    {
+        "start": "Frankfurt Hbf (tief)",
+        "end": "N\u00fcrnberg Hbf",
+        "duration": "2:32:00",
+        "risk": "unknown",
+        "price": 43.64
+    },
+    {
+        "start": "N\u00fcrnberg Hbf",
+        "end": "Frankfurt(Main)Hbf",
+        "duration": "2:06:00",
+        "risk": "high",
+        "price": 35.99
+    },
+    {
+        "start": "Frankfurt(Main)Hbf",
+        "end": "Leipzig Hbf",
+        "duration": "3:08:00",
+        "risk": "very-high",
+        "price": 59.99
+    },
+    {
+        "start": "Leipzig Hbf",
+        "end": "Frankfurt(Main)Hbf",
+        "duration": "3:03:00",
+        "risk": "exceptionally-high",
+        "price": 89.99
+    },
+    {
+        "start": "Stuttgart Hbf",
+        "end": "M\u00fcnchen Hbf",
+        "duration": "1:57:00",
+        "risk": "high",
+        "price": 35.99
+    },
+    {
+        "start": "M\u00fcnchen Hbf",
+        "end": "Stuttgart Hbf",
+        "duration": "1:59:00",
+        "risk": "low-to-medium",
+        "price": 33.99
+    },
+    {
+        "start": "M\u00fcnchen Hbf",
+        "end": "N\u00fcrnberg Hbf",
+        "duration": "1:12:00",
+        "risk": "high",
+        "price": 24.99
+    },
+    {
+        "start": "N\u00fcrnberg Hbf",
+        "end": "M\u00fcnchen Hbf",
+        "duration": "1:03:00",
+        "risk": "high",
+        "price": 53.99
+    },
+    {
+        "start": "N\u00fcrnberg Hbf",
+        "end": "Leipzig Hbf",
+        "duration": "2:05:00",
+        "risk": "low-to-medium",
+        "price": 59.99
+    },
+    {
+        "start": "Leipzig Hbf",
+        "end": "N\u00fcrnberg Hbf",
+        "duration": "2:04:00",
+        "risk": "high",
+        "price": 67.99
+    }
+]
